@@ -1,0 +1,10 @@
+{
+  "name": "fundamentos_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex Gomes <alex.gomes.ext@infracommerce.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
